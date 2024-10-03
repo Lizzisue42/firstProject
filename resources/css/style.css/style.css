@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(101, 101, 63);
+    font: Sacramento;
+    font-size: 3rem; 
+    text-align: center;
+    font-family: "Tangerine", cursive;
+    text-decoration: underline;
+
+}
+div id {
+       background-color: lightgoldenrodyellow;
+       font-size: 2rem;
+       font-family: cursive;
+       text-align: center;
+}
+div id="surrendering" {
+                      background-color: apricot:
+                      color: lightpink;
+                      font-size: 2rem;
+                      font-family: cursive;
+                      text-align: center;
+                    
+}
+body {
+     background-color: bisque;
+     font-size: 2rem;
+     font-family: "Space Mono";
+     text-decoration: bold;
+     text-align: center;
+}
+h4 {
+    background-color:blanchedalmond;
+    font-size: 3rem;
+}
+li {
+     font-size: 2rem;
+     color: rgb;
+}
