@@ -3,8 +3,46 @@ h1 {
    font-size: 3rem;
    text-decoration: underline;
    text-align:center;
+   padding: 20px;
 }
 body {
      background-color: blanchedalmond;
-     font-size: 1rem;
+     color:rgb(101, 81, 52);
+     font-size: 2rem;
+     padding: 20px;
+     text-align: center;
+}
+p {
+    border: 5px solid rgb(42, 106, 42);
+    border-radius: 5px;
+      
+
+}
+div id {
+       color:rgb(118, 118, 77);
+       font-size: 2rem;
+       text-decoration: underline;
+       text-align: center;
+       padding: 10px;
+}
+h2 {
+   color: rgb(118, 118, 77)
+   font-size: 2rem;
+   text-align: center;
+   padding: 20px;
+}
+li {
+   background-color: blanchedalmond;
+   color: rgb(105, 66, 16);
+   font-size: 3rem;
+   text-align: center;
+   text-decoration: none;
+   list-style-type: decimal-leading-zero;
+   padding: 5px;
+   transition-duration: .3s;
+}
+img {
+    width: 60%;
+    margin: 20px;
+    border-radius: 50%
 }
