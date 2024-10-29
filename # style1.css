@@ -1,0 +1,39 @@
+title {
+      
+
+}
+.banner {
+    flex-direction: column;
+    margin-bottom: 0;
+}
+.dark {
+    background-color:rgb(215, 182, 132);
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 30%;
+
+}
+.start {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    width: 40%;
+    padding: 50px 16px;
+}
+img {
+    width: 40%;
+    height: auto;
+
+
+}
+h1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: solid;
+    border-color:rgb(253, 178, 191);
+}
