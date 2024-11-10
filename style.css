@@ -59,3 +59,8 @@ video {
     flex-direction: column;
     align-items: center;
 }
+p {
+  text-align: center;
+  text-indent:0cqmin;
+  -ms-layout-grid-type: calc();
+}

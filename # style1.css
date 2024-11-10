@@ -5,15 +5,14 @@ title {
 .banner {
     flex-direction: column;
     margin-bottom: 0;
+    background-color:rgb(218, 168, 94);
 }
 .dark {
-    background-color:rgb(215, 182, 132);
-}
-.box {
-    display: flex;
+    display: block;
     flex-direction: column;
     align-content: center;
     width: 30%;
+    background-color:rgb(137, 96, 34);
 
 }
 .start {
@@ -25,15 +24,20 @@ title {
     padding: 50px 16px;
 }
 img {
-    width: 40%;
+    flex-direction: column;
+    text-align: center;
+    display: block;
+    width: 20%;
     height: auto;
+    border-radius: 20%;
 
 
 }
 h1 {
+    color: rgb(253, 178, 191);
+    font-size: 2px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
-    border: solid;
-    border-color:rgb(253, 178, 191);
+
 }
